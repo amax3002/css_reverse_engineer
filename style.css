@@ -1,0 +1,54 @@
+
+
+
+html {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 375px;
+  margin-left: 375px;
+  background-color: #E2AC7F;
+}
+
+.intro-paragraph {
+  margin-right: 20px;
+  margin-left: 20px;
+  font-size: 13px;
+  font-family: serif;
+}
+
+.full-poem {
+  font-style: oblique;
+  font-size: 16px;
+}
+
+.full-poem span {
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.link_to_wiki, .link_to_wiki a {
+  text-align: center;
+  font-size: 10px;
+}
+.link_to_wiki a {
+  color: blue;
+}
+
+body {
+    background-color: #F5F5DC;
+    border-collapse: collapse;
+}
+article {
+    border: 5px dotted black;
+    margin-top: -5px
+}
+
+h1 {
+    font-family: impact;
+    border: 5px dotted black;
+    text-align: center;
+    font-style: oblique;;
+    font-weight: 900;
+    margin-bottom: 0px;
+}
